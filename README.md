@@ -11,7 +11,7 @@ Welcome to this beautiful Login/Signup page designed to showcase advanced CSS te
 
 ## Preview
 
-![Login/Signup Page Preview](preview.png)
+![Login/Signup Page Preview](https://i.ibb.co/JdCh7r6/login.jpg)
 
 ## Getting Started
 
@@ -45,12 +45,3 @@ Feel free to fork this repository and use it as a starting point for your projec
 ## Contributing
 
 We welcome contributions! If you have any suggestions, improvements, or bug fixes, please create a pull request or open an issue. Let's make this project even better together.
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
-## Acknowledgments
-
-- Inspired by modern web design trends.
-- Built with a passion for coding and a love for beautiful interfaces.
